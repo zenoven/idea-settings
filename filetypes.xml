@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="titans" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
